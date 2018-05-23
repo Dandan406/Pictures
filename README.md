@@ -12,6 +12,7 @@
 ![ym2](https://github.com/Dandan406/Pictures/blob/master/ym2.jpg)
 ![ym3](https://github.com/Dandan406/Pictures/blob/master/ym3.jpg)
 ![ym4](https://github.com/Dandan406/Pictures/blob/master/ym4.jpg)
+该app已下架，暂从其他地方截图
 ![xj1](https://github.com/Dandan406/Pictures/blob/master/xj1.jpg)
 ![xj2](https://github.com/Dandan406/Pictures/blob/master/xj2.jpg)
 ![xj3](https://github.com/Dandan406/Pictures/blob/master/xj3.jpg)
